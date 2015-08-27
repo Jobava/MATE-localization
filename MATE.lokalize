@@ -1,0 +1,8 @@
+[General]
+LangCode=ro
+MailingList=mate-i18n@ml.mate-desktop.org
+ProjectID=MATE
+TargetLangCode=ro
+
+[RegExps]
+Accel=_

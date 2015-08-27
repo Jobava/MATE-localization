@@ -1,0 +1,280 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Daniel <danny34ever@yahoo.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-21 10:02+0200\n"
+"PO-Revision-Date: 2015-07-21 08:32+0000\n"
+"Last-Translator: infirit <infirit@gmail.com>\n"
+"Language-Team: Romanian (http://www.transifex.com/mate/MATE/language/ro/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+
+#. translators: bits (short)
+#: ../src/netspeed.c:427
+msgid "b"
+msgstr "b"
+
+#. translators: Bytes (short)
+#: ../src/netspeed.c:427
+msgid "B"
+msgstr "O"
+
+#: ../src/netspeed.c:429
+msgid "b/s"
+msgstr "b/s"
+
+#: ../src/netspeed.c:429
+msgid "B/s"
+msgstr "B/s"
+
+#: ../src/netspeed.c:432
+msgid "bits"
+msgstr "biți"
+
+#: ../src/netspeed.c:432
+msgid "bytes"
+msgstr "octeți"
+
+#. translators: kilobits (short)
+#: ../src/netspeed.c:440
+msgid "k"
+msgstr "k"
+
+#. translators: Kilobytes (short)
+#: ../src/netspeed.c:440
+msgid "K"
+msgstr "K"
+
+#: ../src/netspeed.c:442
+msgid "kb/s"
+msgstr "kb/s"
+
+#: ../src/netspeed.c:442
+msgid "KiB/s"
+msgstr "KO/s"
+
+#: ../src/netspeed.c:445
+msgid "kb"
+msgstr "kb"
+
+#: ../src/netspeed.c:445
+msgid "KiB"
+msgstr "KO"
+
+#. translators: megabits (short)
+#: ../src/netspeed.c:455
+msgid "m"
+msgstr "m"
+
+#. translators: Megabytes (short)
+#: ../src/netspeed.c:455
+msgid "M"
+msgstr "M"
+
+#: ../src/netspeed.c:457
+msgid "Mb/s"
+msgstr ""
+
+#: ../src/netspeed.c:457
+msgid "MiB/s"
+msgstr "MO/s"
+
+#: ../src/netspeed.c:460
+msgid "Mb"
+msgstr ""
+
+#: ../src/netspeed.c:460
+msgid "MiB"
+msgstr "MO"
+
+#: ../src/netspeed.c:798
+#, c-format
+msgid ""
+"There was an error displaying help:\n"
+"%s"
+msgstr ""
+
+#: ../src/netspeed.c:837
+msgid ""
+"A little applet that displays some information on the traffic on the "
+"specified network device"
+msgstr "Un mic aplet ce afişează informaţii despre traficul dispozitivului de reţea specificat"
+
+#: ../src/netspeed.c:840
+msgid "translator-credits"
+msgstr ""
+
+#: ../src/netspeed.c:998
+msgid "Mate Netspeed Preferences"
+msgstr "Preferințe Viteză rețea Mate"
+
+#: ../src/netspeed.c:1020
+msgid "General Settings"
+msgstr "Setări generale"
+
+#: ../src/netspeed.c:1041
+msgid "Network _device:"
+msgstr "_Dispozitiv reţea:"
+
+#: ../src/netspeed.c:1057 ../src/netspeed.c:1059
+msgid "Default"
+msgstr "Implicit"
+
+#: ../src/netspeed.c:1077
+msgid "Show _sum instead of in & out"
+msgstr "Afişează _totalul în loc de recepţie & transmisie"
+
+#: ../src/netspeed.c:1081
+msgid "Show _bits instead of bytes"
+msgstr "Arată _biți în loc de octeți"
+
+#: ../src/netspeed.c:1085
+msgid "Shorten _unit legend"
+msgstr ""
+
+#: ../src/netspeed.c:1089
+msgid "Change _icon according to the selected device"
+msgstr "Schimbă _iconiţa funcţie de dispozitivul selectat"
+
+#: ../src/netspeed.c:1093
+msgid "Show _icon"
+msgstr "Arată p_ictogramă"
+
+#: ../src/netspeed.c:1097
+msgid "Show signal _quality icon for wireless devices"
+msgstr ""
+
+#: ../src/netspeed.c:1228
+#, c-format
+msgid "Device Details for %s"
+msgstr "Detalii dispozitiv pentru %s"
+
+#: ../src/netspeed.c:1253
+msgid "_In graph color"
+msgstr "Culoare grafic _recepţie"
+
+#: ../src/netspeed.c:1254
+msgid "_Out graph color"
+msgstr "Culoare grafic _transmisie"
+
+#: ../src/netspeed.c:1270
+msgid "Internet Address:"
+msgstr "Adresă Internet:"
+
+#: ../src/netspeed.c:1271
+msgid "Netmask:"
+msgstr "Masca de reţea:"
+
+#: ../src/netspeed.c:1272
+msgid "Hardware Address:"
+msgstr "Adresa fizică:"
+
+#: ../src/netspeed.c:1273
+msgid "P-t-P Address:"
+msgstr "Adresa P-t-P:"
+
+#: ../src/netspeed.c:1274
+msgid "Bytes in:"
+msgstr "Bytes recepţionaţi:"
+
+#: ../src/netspeed.c:1275
+msgid "Bytes out:"
+msgstr "Bytes transmişi:"
+
+#: ../src/netspeed.c:1277 ../src/netspeed.c:1278 ../src/netspeed.c:1279
+#: ../src/netspeed.c:1280
+msgid "none"
+msgstr "niciuna"
+
+#: ../src/netspeed.c:1319
+msgid "IPV6 Address:"
+msgstr "Adresă IPV6:"
+
+#: ../src/netspeed.c:1351
+msgid "Signal Strength:"
+msgstr "Putere semnal:"
+
+#: ../src/netspeed.c:1352
+msgid "ESSID:"
+msgstr "ESSID:"
+
+#: ../src/netspeed.c:1397
+msgid "Device _Details"
+msgstr "_Detalii Dispozitiv"
+
+#: ../src/netspeed.c:1399
+msgid "Preferences..."
+msgstr "Preferințe..."
+
+#: ../src/netspeed.c:1401
+msgid "Help"
+msgstr "Ajutor"
+
+#: ../src/netspeed.c:1403
+msgid "About..."
+msgstr "Despre..."
+
+#: ../src/netspeed.c:1444
+#, c-format
+msgid "Do you want to disconnect %s now?"
+msgstr ""
+
+#: ../src/netspeed.c:1448
+#, c-format
+msgid "Do you want to connect %s now?"
+msgstr ""
+
+#: ../src/netspeed.c:1475
+#, c-format
+msgid ""
+"<b>Running command %s failed</b>\n"
+"%s"
+msgstr ""
+
+#: ../src/netspeed.c:1534
+#, c-format
+msgid "%s is down"
+msgstr "%s nu este activ"
+
+#: ../src/netspeed.c:1539
+#, c-format
+msgid ""
+"%s: %s\n"
+"in: %s out: %s"
+msgstr ""
+
+#: ../src/netspeed.c:1541 ../src/netspeed.c:1550
+msgid "has no ip"
+msgstr "nu are ip"
+
+#: ../src/netspeed.c:1548
+#, c-format
+msgid ""
+"%s: %s\n"
+"sum: %s"
+msgstr "%s: %s\ntotal: %s"
+
+#: ../src/netspeed.c:1557
+#, c-format
+msgid ""
+"\n"
+"ESSID: %s\n"
+"Strength: %d %%"
+msgstr ""
+
+#: ../src/netspeed.c:1558
+msgid "unknown"
+msgstr "Necunoscut"
+
+#: ../src/netspeed.c:1605
+msgid "Mate Netspeed"
+msgstr "Viteză rețea Mate"

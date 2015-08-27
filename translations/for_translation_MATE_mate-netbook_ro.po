@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Kyle Nitzsche <kyle.nitzsche@canonical.com>, 2009
+msgid ""
+msgstr ""
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-26 11:51+0200\n"
+"PO-Revision-Date: 2012-07-26 09:55+0000\n"
+"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
+"Language-Team: Romanian (http://www.transifex.com/mate/MATE/language/ro/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+
+#: ../mate-window-picker-applet/applet.c:64
+msgid "_Preferences"
+msgstr ""
+
+#: ../mate-window-picker-applet/applet.c:67
+msgid "_About"
+msgstr ""
+
+#: ../mate-window-picker-applet/applet.c:266
+#: ../mate-window-picker-applet/applet.c:267
+msgid "Window Picker"
+msgstr "Selector ferestre"
+
+#: ../mate-window-picker-applet/applet.c:301
+msgid "Preferences"
+msgstr "Preferințe"
+
+#: ../mate-window-picker-applet/applet.c:317
+msgid "Show windows from all workspaces"
+msgstr "Arată ferestrele din toate spațiile de lucru"
+
+#: ../mate-window-picker-applet/task-title.c:251
+#: ../mate-window-picker-applet/task-title.c:258
+#: ../mate-window-picker-applet/task-title.c:301
+#: ../mate-window-picker-applet/task-title.c:308
+#: ../mate-window-picker-applet/task-title.c:440
+#: ../mate-window-picker-applet/task-title.c:499
+msgid "Home"
+msgstr "Acasă"
+
+#: ../mate-window-picker-applet/task-title.c:255
+#: ../mate-window-picker-applet/task-title.c:305
+#: ../mate-window-picker-applet/task-title.c:497
+msgid "Log off, switch user, lock screen or power down the computer"
+msgstr "Ieșire, comutare utilizator, blocare ecran sau oprire calculator"
+
+#: ../mate-window-picker-applet/task-title.c:277
+msgid "Close window"
+msgstr "Închide fereastra"
+
+#: ../mate-window-picker-applet/task-title.c:460
+msgid "Close"
+msgstr ""
+
+#: ../mate-window-picker-applet/task-title.c:461
+msgid "Close current window."
+msgstr ""
+
+#: ../mate-window-picker-applet/task-item.c:650
+msgid "Window Task Button"
+msgstr ""
